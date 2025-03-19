@@ -1,0 +1,12 @@
+.span#Budget{
+    color: lawngreen;
+}
+.span#Income{
+    color: springgreen;
+}
+.span#Expense{
+    color: red;
+}
+.span#Balance{
+    color: lightsalmon;
+}
